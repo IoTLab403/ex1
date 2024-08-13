@@ -1,2 +1,2 @@
 # requirements.txt
-st-supabase-connection==x.x.x
+st-supabase-connection==2.0.0
